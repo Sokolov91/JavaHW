@@ -3,7 +3,7 @@ package task_1;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(sumOfNumbers(25,33.9));
+        System.out.println(sumOfNumbers(25,33));
     }
 
     public static int sumOfNumbers(int a, int b){
